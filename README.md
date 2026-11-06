@@ -1,3 +1,7 @@
+<p align="center">
+  <img src="/5D9574DA-BECB-4A51-914B-A7D5AD77BC40.png" width="100%" alt="Banner Beatriz Ribeiro">
+</p>
+
 Olá! Eu sou a Beatriz Ribeiro 👋
 
 Tecnologia | Cibersegurança | Segurança da Informação
